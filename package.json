@@ -1,0 +1,20 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "A web-based project that visualizes images in a gallery format for tutorial purposes.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "image",
+    "gallery",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "ISC"
+}
